@@ -12,7 +12,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/movierecommendationsystem.git
+git clone https://github.com/yourusername/movierecommendationsystem.git](https://github.com/Mukul-Raj-Singh/Movie-Recommendation-System/blob/main/Movies%20Recommendation%20System.ipynb
 Navigate to the project directory:
 
 bash
