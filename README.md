@@ -18,6 +18,9 @@ cd movierecommendationsystem
 Install the required Python packages:
 
 pip install -r requirements.txt
+
+
+
 Download the dataset:
 https://raw.githubusercontent.com/YBI-Foundation/Dataset/main/Movies%20Recommendation.csv
 
