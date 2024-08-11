@@ -10,36 +10,30 @@ Top Movie Recommendations: Provides a list of the top similar movies based on us
 Installation
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/movierecommendationsystem.git](https://github.com/Mukul-Raj-Singh/Movie-Recommendation-System/blob/main/Movies%20Recommendation%20System.ipynb
-Navigate to the project directory:
+git clone https://github.com/Mukul-Raj-Singh/Movie-Recommendation-System/tree/main
 
-bash
-Copy code
+Navigate to the project directory:
 cd movierecommendationsystem
+
 Install the required Python packages:
 
-bash
-Copy code
 pip install -r requirements.txt
 Download the dataset:
+https://raw.githubusercontent.com/YBI-Foundation/Dataset/main/Movies%20Recommendation.csv
 
 Ensure you have the necessary dataset by downloading it from here and placing it in the project directory.
 
 Usage
 Run the recommendation system:
 
-bash
-Copy code
+
 python recommendation_system.py
 Enter your favorite movie name when prompted.
 
 View the top movie recommendations based on your input.
 
 Example
-bash
-Copy code
+
 Enter your favourite movie name: The Matrix
 Top 10 Movies suggested for you:
 1. The Matrix Reloaded
